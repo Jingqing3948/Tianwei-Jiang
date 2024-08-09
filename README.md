@@ -5,7 +5,7 @@
 
 我的各平台信息如下：
 - [Github](https://github.com/jingqing3948)：我的代码仓库。
-- [姜天伟的简历](https://twjiang.cn/)：我的个人简历。
+- [灰海宽松的主页](https://twjiang.cn/)：我的个人简历。
 - [灰海宽松的CSDN博客](https://blog.csdn.net/jtwqwq?spm=1000.2115.3001.5343)：我的CSDN账号，主要用于技术文章分享。
 - [灰海宽松的个人博客](https://jingqing3948.github.io)：我的技术文章分享个人网站。
 - [灰海宽松的bilibili空间](https://space.bilibili.com/1022992566/?spm_id_from=333.999.0.0)：我的bilibili账号，主要用于技术视频分享。
@@ -30,7 +30,7 @@ Besides technology, I am passionate about track and field, photography, and vide
 
 ### My Platform Information:
 - [Github](https://github.com/jingqing3948): My code repository.
-- [姜天伟的简历](https://twjiang.cn/): My personal resume.
+- [灰海宽松的主页](https://twjiang.cn/): My personal resume.
 - [灰海宽松的CSDN博客](https://blog.csdn.net/jtwqwq?spm=1000.2115.3001.5343): My CSDN account, mainly used for sharing technical articles.
 - [灰海宽松的个人博客](https://jingqing3948.github.io): My personal website for sharing technical articles.
 - [灰海宽松的bilibili空间](https://space.bilibili.com/1022992566/?spm_id_from=333.999.0.0): My bilibili account, mainly used for sharing technical videos.
