@@ -7,10 +7,10 @@
 - [Github](https://github.com/jingqing3948)：我的代码仓库。
 - [灰海宽松的主页](https://twjiang.cn/)：我的个人简历。
 - [灰海宽松的CSDN博客](https://blog.csdn.net/jtwqwq?spm=1000.2115.3001.5343)：我的CSDN账号，主要用于技术文章分享。
-- [灰海宽松的个人博客](https://jingqing3948.github.io)：我的技术文章分享个人网站。
-- [灰海宽松的bilibili空间](https://space.bilibili.com/1022992566/?spm_id_from=333.999.0.0)：我的bilibili账号，主要用于技术视频分享。
+- [灰海宽松的微信公众号](https://mp.weixin.qq.com/s/tgsE69AP923icqcT9arjcg)：我的资讯分享，文章同步发布公众号。
+- [灰海宽松的bilibili空间](https://space.bilibili.com/1022992566/?spm_id_from=333.999.0.0)：我的bilibili账号，主要用于技术，日常视频分享。
 - [灰海行舟：人生随笔集](https://jiang-tian-weisorganization.gitbook.io/hui-hai-xing-zhou-ren-sheng-sui-bi-ji/)：我的人生感悟随笔。
-- [灰海工坊：探索手札](https://jiang-tian-weisorganization.gitbook.io/hui-hai-gong-fang-tan-suo-shou-zha/)：我的创新小玩意们！
+- [灰海工坊：踏星逐路](https://stellaris.graysea.cn/chasing-your-dream)：我的创新小玩意们！
 
 若需与我联系，请直接提一个新的[issue](https://github.com/Jingqing3948/Tianwei-Jiang/issues)。提交issue前，请先搜索已有的issue，避免重复。请尽可能清晰地描述你的问题或需求。
 
@@ -32,10 +32,10 @@ Besides technology, I am passionate about track and field, photography, and vide
 - [Github](https://github.com/jingqing3948): My code repository.
 - [灰海宽松的主页](https://twjiang.cn/): My personal resume.
 - [灰海宽松的CSDN博客](https://blog.csdn.net/jtwqwq?spm=1000.2115.3001.5343): My CSDN account, mainly used for sharing technical articles.
-- [灰海宽松的个人博客](https://jingqing3948.github.io): My personal website for sharing technical articles.
+- [灰海宽松的微信公众号](https://mp.weixin.qq.com/s/tgsE69AP923icqcT9arjcg): My information sharing, the article synchronously published Wechat Offical Account.
 - [灰海宽松的bilibili空间](https://space.bilibili.com/1022992566/?spm_id_from=333.999.0.0): My bilibili account, mainly used for sharing technical videos.
 - [灰海行舟：人生随笔集](https://jiang-tian-weisorganization.gitbook.io/hui-hai-xing-zhou-ren-sheng-sui-bi-ji/): My life insights essays.
-- [灰海工坊：探索手札](https://jiang-tian-weisorganization.gitbook.io/hui-hai-gong-fang-tan-suo-shou-zha/): My innovative little creations!
+- [灰海工坊：踏星逐路](https://stellaris.graysea.cn/chasing-your-dream): My innovative little creations!
 
 If you wish to reach out to me, please feel free to open a new [issue](https://github.com/Jingqing3948/Tianwei-Jiang/issues). Before posting your issue, kindly search existing ones to prevent duplicates. Clearly articulate your query or requirement for a more effective communication.
 
